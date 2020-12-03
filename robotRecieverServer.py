@@ -1,6 +1,5 @@
 # Ben Popernik
-# Sophomore Lab in Applied Computing
-# Raspberry Pi Final Project
+
 # robotRecieverServer.py
 
 #This uses the rrb2 library

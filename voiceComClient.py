@@ -1,6 +1,5 @@
 #Ben Popernik
-#Sophomore Lab in Applied Computing
-#Raspberry Pi Final Project
+
 #voiceComClient.py
 
 import aiy.audio # the following imports are for the Google cloudspeech api
